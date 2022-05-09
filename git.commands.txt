@@ -1,0 +1,7 @@
+1) git init
+ config --global user.name 'Erlashka'
+ config --global user.email slayer6662mail.ru@gmail.com
+ ssh-keygen
+ cat ~/.ssh/id_rsa.pub
+2) git status --> проверка и наблюдение за файлами 
+3)
