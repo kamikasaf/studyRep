@@ -3,6 +3,7 @@
  config --global user.email slayer6662mail.ru@gmail.com
  ssh-keygen
  cat ~/.ssh/id_rsa.pub
-2) git status --> проверка и наблюдение за файлами 
-3) git add git.commands.txt
-4) git commit -m 'i add git.commands.txt file'
+2) git status --> проверка и наблюдение за файлами (отслеживаемые неотслеживаемые) (измененные неизмененные)
+3) git remote add origin path - это команда соединяет удаленный репозиторий 
+4) git add git.commands.txt добавление подтверждения 
+5) git commit -m 'i add git.commands.txt file'
