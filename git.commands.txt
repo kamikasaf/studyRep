@@ -4,4 +4,5 @@
  ssh-keygen
  cat ~/.ssh/id_rsa.pub
 2) git status --> проверка и наблюдение за файлами 
-3)
+3) git add git.commands.txt
+4) git commit -m 'i add git.commands.txt file'
