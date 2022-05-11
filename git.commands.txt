@@ -16,5 +16,6 @@ git remote -v -проверка подключено или нет к гиту
 8) git branch - проверка ветки
 9) git branch branch_name - создание новых веток
 10) git checkout branch_name -переход с одной ветки на другую
-11) git clone (ссылка) создание копии и работа с ним
+11) git clone (ссылка) создание копии с удаленки себе на пк
 12) git checkout -b branch_name создания ветки и переход
+
